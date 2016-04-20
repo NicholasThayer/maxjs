@@ -1,0 +1,26 @@
+{
+  "name": "maxjs",
+  "version": "1.0.0",
+  "description": "framework, language extensions and tools for modern javascript in maxmsp",
+  "main": "maxjs.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasThayer/maxjs.git"
+  },
+  "keywords": [
+    "javascript",
+    "max/msp",
+    "max",
+    "msp",
+    "framework"
+  ],
+  "author": "Nicholas Thayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasThayer/maxjs/issues"
+  },
+  "homepage": "https://github.com/NicholasThayer/maxjs#readme"
+}
